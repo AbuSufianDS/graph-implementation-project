@@ -1,0 +1,23 @@
+# Compiled files
+*.o
+*.exe
+*.out
+graph_program
+verify
+
+# IDE files
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
